@@ -4,7 +4,7 @@ Public link to the slide (Anyone on the internet can view without login): https:
 
 Paper title: Emotion Recognition in the Wild Using Deep Learning and Transfer Learning
 
-Link to the paper:
+Link to the paper: 
 
 Group Number: 4
 

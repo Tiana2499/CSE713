@@ -1,1 +1,17 @@
+Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
+https://www.overleaf.com/7817395731csbztbznjfpb
 
+Unlisted YouTube video:
+https://youtu.be/ZbvFFjPNqfQ
+
+Paper title:
+Deep Learning for Emotion Recognition: A Hybrid TCN and Two-Stream Network Approach
+
+Group Number:
+04
+
+Group Members:
+22266011 Zarin Tasnim Promi
+23166002 Md. Rashedul Islam
+23166007 Nures Saba Tiana
+23166029 Afrin Binta Amzad
